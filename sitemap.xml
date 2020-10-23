@@ -3,57 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anh-ngu.github.io/</loc>
+    <loc>https://nhatky.github.io/</loc>
+    <lastmod>2020-10-23T02:36:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhatky.github.io/categories/</loc>
+    <lastmod>2020-10-23T02:36:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhatky.github.io/p/2020-10-23/</loc>
+    <lastmod>2020-10-23T02:36:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhatky.github.io/categories/nhat-ky/</loc>
+    <lastmod>2020-10-23T02:36:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhatky.github.io/post/</loc>
+    <lastmod>2020-10-23T02:36:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhatky.github.io/categories/ren-luyen-ban-than/</loc>
     <lastmod>2020-10-21T03:36:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anh-ngu.github.io/categories/</loc>
+    <loc>https://nhatky.github.io/p/2020-10-21-thay-doi/</loc>
     <lastmod>2020-10-21T03:36:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anh-ngu.github.io/post/</loc>
-    <lastmod>2020-10-21T03:36:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anh-ngu.github.io/categories/ren-luyen-ban-than/</loc>
-    <lastmod>2020-10-21T03:36:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anh-ngu.github.io/p/2020-10-21-thay-doi/</loc>
-    <lastmod>2020-10-21T03:36:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anh-ngu.github.io/p/2020-10-21/</loc>
+    <loc>https://nhatky.github.io/p/2020-10-21/</loc>
     <lastmod>2020-10-21T02:36:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anh-ngu.github.io/categories/nhat-ky/</loc>
-    <lastmod>2020-10-21T02:36:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anh-ngu.github.io/about/</loc>
+    <loc>https://nhatky.github.io/about/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anh-ngu.github.io/page/</loc>
+    <loc>https://nhatky.github.io/page/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anh-ngu.github.io/archives/</loc>
+    <loc>https://nhatky.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anh-ngu.github.io/tags/</loc>
+    <loc>https://nhatky.github.io/tags/</loc>
   </url>
   
 </urlset>
